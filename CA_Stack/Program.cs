@@ -1,0 +1,11 @@
+﻿
+
+namespace CA_Stack;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+    }
+}
